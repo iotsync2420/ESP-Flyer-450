@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="media/aeronode_banner.png" alt="AERO NODE-450 Banner"/>
+  <img src="drone_banner.png" alt="AERO NODE-450 Banner"/>
 </p>
 
 ## `01` ◈ MISSION PARAMETERS
