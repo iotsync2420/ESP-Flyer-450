@@ -122,7 +122,7 @@ GPS and magnetometer physically separated from power traces. Compass accuracy im
 
 ---
 
-## `08` ◈ DEVELOPMENT ROADMAP
+## `08` ◈ Future Scope !
 
 ```
 ◈ AI-based adaptive stabilization
